@@ -77,6 +77,26 @@ The application will open in your browser.
 - Correlation does not imply causation.
 - CO₂ indicators represent different aspects of emissions and should not be interpreted interchangeably.
 
+## Dashboard Screenshots
+
+### Overview
+![Overview](screenshots/overview.png)
+
+### Country Ranking
+![Country Ranking](screenshots/ranking.png)
+
+### Historical Evolution
+![Historical Evolution](screenshots/evolution.png)
+
+### World Map
+![World Map](screenshots/world-map.png)
+
+### GDP and CO2 Analysis
+![GDP and CO2 Analysis](screenshots/gdp-co2.png)
+
+### Guide and Methodology
+![Guide and Methodology](screenshots/methodology.png)
+
 ## Author
 
 **Salma Azizi**
